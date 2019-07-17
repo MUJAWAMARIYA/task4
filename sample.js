@@ -1,8 +1,5 @@
 $(document).ready(function () {
 	let average = 0;
-
-
-
 	function getValue() {
 		let subject_points = [Number($('#national_language').val()),
 		Number($('#english').val()),
